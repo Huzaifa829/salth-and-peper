@@ -1,0 +1,114 @@
+*{
+    font-family: "Roboto", sans-serif;;
+}
+body{
+    background-color: #000000 !important;
+}
+.HA_nav_main{
+    background-color: black !important;
+}
+.HA_navbar_collapse{
+    flex-grow: 0 !important;
+    gap: 40px !important;
+}
+.HA_menu_main{
+    gap:30px;
+}
+.HA_nav_btn1{
+   background-color: transparent;
+    padding: 12px 16.5px 12px 16.5px;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid white;
+    border-radius: 50px;
+    
+}
+.HA_nav_btn2{
+   background-color: #ed1c24;
+    padding: 3px 16.5px 3px 16.5px;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid white;
+    border-radius: 50px;
+
+}
+.HA_main_img{
+    width: 120px;
+}
+.HA_part2_child_text{
+    font-family: "Protest Strike", sans-serif;
+}
+.HA_part2_mian{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 0px;
+}
+.HA_part2_mian>p{
+    color: white;
+}
+.HA_part2_text{
+    font-size: 40px;
+    text-align: center;
+}
+.HA_part2_text2{
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}
+.HA_part2_text3{
+    font-size: 16px;
+    color: 
+    rgba(255, 255, 255, 0.7) !important;
+    text-align: center;
+}
+.HA_card_main_prant{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.HA_card_main{
+    background-color: transparent !important;
+    display: flex !important;
+    justify-content: center;
+    gap: 30px !important;
+    
+    align-items:center ;
+}
+.HA_card_img_main{
+    background-color: white;
+    border-radius: 5px;
+    width: 280px;
+    /* height: 300px; */
+}
+.HA_card_btn{
+    border: 1px solid gray !important;
+    border-radius: 50px !important;
+    color: white !important;
+    padding: 20px 40px;
+    text-decoration: none
+}
+.HA_part3_main{
+    padding: 100px 0px;
+    background-color: #0f0f0f;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.HA_part3_text{
+    font-family: "Protest Strike", sans-serif;
+    font-size: 52px;
+    color: white;
+
+}
+.HA_part3_text2{
+    font-family: sans-serif;
+    font-size: 48px;
+    color: white;
+}
+.HA_part3_text3{
+    color: rgb(255, 255, 255);
+}
