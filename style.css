@@ -102,13 +102,52 @@ body{
     font-family: "Protest Strike", sans-serif;
     font-size: 52px;
     color: white;
+    text-align: center;
 
 }
 .HA_part3_text2{
     font-family: sans-serif;
     font-size: 48px;
     color: white;
+    text-align: center;
+
 }
 .HA_part3_text3{
     color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+.text-white,
+.text-white > a {
+    color: white !important;
+}
+.navbar-toggler-icon {
+    color: white !important;
+}
+@media screen and (max-width: 480px) {
+.HA_part2_text{
+    font-size: 30px;
+}
+.HA_part2_text2{
+    font-size: 25px;
+
+}
+.HA_part2_text3 {
+font-size: 12px;
+}
+.HA_card_img_main{
+    width: 200px;
+}
+.HA_card_btn{
+    padding: 10px 20px;
+}
+.HA_part3_text{
+    font-size: 40px;
+}
+.HA_part3_text2{
+    font-size: 35px;
+}
+.HA_part3_text3{
+    font-size: 12px;
+}
 }
